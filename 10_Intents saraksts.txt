@@ -1,0 +1,43 @@
+Intents un Entities definēšana mākslīgā intelekta asistentam programmēšanas palīgam:
+
+Intents saraksts
+Lietotājs jautā par kādas programmēšanas valodas funkcionalitāti:
+
+Piemērs: "Kā darbojas if izteiksme Python?"
+Entity: programmēšanas valoda (Python), funkcionalitāte (if).
+Lietotājs lūdz analizēt vai atrast kļūdu kodā:
+
+Piemērs: "Atrodi kļūdu šajā kodā."
+Entity: kods (lieto ievadi kā tekstu), kļūdas tips (piem., sintakse, izpilde).
+Lietotājs vēlas uzzināt par algoritmu vai datu struktūru:
+
+Piemērs: "Paskaidro, kā darbojas sakārtošanas algoritms."
+Entity: algoritma nosaukums (sakārtošana), darbības konteksts (piem., saraksti).
+Lietotājs vēlas palīdzību ar konfigurāciju vai vidi:
+
+Piemērs: "Kā iestatīt Node.js projektu?"
+Entity: rīks vai programma (Node.js), uzdevuma veids (iestatīšana).
+Lietotājs lūdz padomu par labākajām praksēm:
+
+Piemērs: "Kāda ir labākā prakse, rakstot CSS?"
+Entity: tehnoloģija (CSS), temats (labākā prakse).
+Lietotājs jautā par kļūdu ziņojumu:
+
+Piemērs: "Ko nozīmē šī kļūda: SyntaxError: unexpected EOF while parsing?"
+Entity: kļūdas ziņojums (SyntaxError: unexpected EOF), valoda (piem., Python).
+Lietotājs lūdz ģenerēt kodu:
+
+Piemērs: "Uzraksti JavaScript funkciju, kas summē masīvu."
+Entity: valoda (JavaScript), uzdevuma tips (summē masīvu).
+Lietotājs meklē atsauces vai mācību materiālus:
+
+Piemērs: "Kur varu apgūt React.js pamatus?"
+Entity: tehnoloģija (React.js), materiāla veids (pamati).
+Lietotājs jautā par versijām vai izmaiņām:
+
+Piemērs: "Kādas ir atšķirības starp PHP 7 un PHP 8?"
+Entity: valoda (PHP), versijas (7, 8).
+Lietotājs lūdz padomu projektēšanas pieejā:
+
+Piemērs: "Kā labāk strukturēt datu bāzi e-komercijas projektam?"
+Entity: projektēšanas konteksts (e-komercija), risinājuma tips (datu bāze)
